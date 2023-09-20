@@ -1,4 +1,4 @@
-alert(`Sabes como calcular cuantos numeros pares hay entre 2 numeros?
+alert(`Sabes como cuantos numeros pares hay entre 2 numeros?
 
     Para saber cuantos numeros pares hay entre 2 numeros.
 
