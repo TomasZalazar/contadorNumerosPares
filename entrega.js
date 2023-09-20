@@ -1,8 +1,8 @@
-alert(`Sabes como cuantos numeros pares hay entre 2 numeros?
+alert(`Sabes cuantos numeros pares hay entre 2 numeros positivos?
 
-    Para saber cuantos numeros pares hay entre 2 numeros.
+    Para saber cuantos numeros pares hay entre 2 numeros positivos.
 
-    vas a ingresar el numero inicial y el numero final
+    vas a ingresar el numero inicial y el numero final, ambos positivos.
 
     ejemplo: desde el 1 hasta el 100. ingreso 1 y 100`);
 
