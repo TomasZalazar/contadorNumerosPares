@@ -7,8 +7,8 @@ Ingresar el numero inicial y el numero final, ambos positivos.
 
 Ejemplo: desde el 1 hasta el 100. ingreso 1 y 100`);
 
-let numeroInicial = parseInt(prompt("ingrese el numero inicial"))
-let numeroFinal = parseInt(prompt("ingrese el numero final"))
+let numeroInicial = parseFloat(prompt("ingrese el numero inicial"))
+let numeroFinal = parseFloat(prompt("ingrese el numero final"))
 if (isNaN(numeroInicial) || isNaN(numeroFinal) || numeroInicial > numeroFinal || numeroFinal < numeroInicial) {
     alert("Ingresaste datos incorrectos o negativos. Por favor, asegurate que el numero incial sea mas chico que el numero final.");
 }  else {
